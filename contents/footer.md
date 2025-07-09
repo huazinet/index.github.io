@@ -12,7 +12,7 @@ Social: [
     {
         name: "Wechat",
         icon: "wechat",
-        url: "https://img.picgo.net/2024/08/21/b4b08f849242d5648554fed245006da4faf7bfd8d1a3b774.md.jpeg"
+        url: "https://wmimg.com/i/1759/2025/07/686deb86e8cd7.png"
     },
     {
         name: "Telegram",
